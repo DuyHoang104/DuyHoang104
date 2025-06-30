@@ -63,7 +63,7 @@ Các dự án dưới đây thể hiện kinh nghiệm thực tế của tôi tr
     * Có được cái nhìn sâu sắc về quy trình làm việc với một dự án thực tế, từ đó hiểu rõ cách tổ chức mã nguồn hiệu quả.
     * Phát triển kỹ năng ước tính thời gian hoàn thành công việc một cách thực tế.
     * Nâng cao kỹ năng quản lý phiên bản chuyên nghiệp với GitHub.
-* **Mã nguồn**: [https://github.com/DuyHoang104/Ecommerce%20Management.git](https://github.com/DuyHoang104/Ecommerce%20Management.git)
+* **Mã nguồn**: [https://github.com/DuyHoang104/Ecommerce%20Management.git](https://github.com/DuyHoang104/EcommerceManagement.git)
 
 ---
 
